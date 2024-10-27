@@ -3,7 +3,7 @@ abstract: Repository containing code and data files related to analysis of SARS-
   of Washington
 authors:
 - family-names: Miguel Paredes
-- family-names: amcasto
+- family-names: Amanda Casto
 cff-version: 1.2.0
 date-released: '2024-10-27'
 doi: 10.5281/zenodo.13997412

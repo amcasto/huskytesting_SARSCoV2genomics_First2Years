@@ -1,0 +1,15 @@
+abstract: Repository containing code and data files related to analysis of SARS-CoV-2
+  genomic data generated from Years 1-2 of the Husky Testing Study at the University
+  of Washington
+authors:
+- family-names: Miguel Paredes
+- family-names: amcasto
+cff-version: 1.2.0
+date-released: '2024-10-27'
+doi: 10.5281/zenodo.13997412
+license:
+- cc-by-4.0
+repository-code: https://github.com/amcasto/huskytesting_SARSCoV2genomics_First2Years/tree/v1.0.0
+title: 'amcasto/huskytesting_SARSCoV2genomics_First2Years: Initial Release'
+type: software
+version: v1.0.0
